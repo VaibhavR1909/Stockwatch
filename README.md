@@ -64,11 +64,11 @@ The StockApp is also available on Docker Hub. You can find the image here (repla
 
 A big thanks to the following people for their contributions:
 
-    @Kadali Vardhan
-    @Syeda Umme Kulsum
-    @Tamanna Bothra
-    @Mayuri Gund
-    @Shaik Nageena
+  @Kadali Vardhan
+  @Syeda Umme Kulsum
+  @Tamanna Bothra
+  @Mayuri Gund
+  @Shaik Nageena
 
 🙏 Acknowledgements
 
