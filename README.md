@@ -1,6 +1,7 @@
 📈 StockApp
 
 StockApp is a Flask application designed to provide insights into stock market data. This application leverages APIs to fetch and display stock information dynamically.
+
 ✨ Features
 
     📊 Fetch stock prices and data in real-time.
