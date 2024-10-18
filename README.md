@@ -19,9 +19,6 @@ Before running the application, make sure you have the following installed:
 🚀 Getting Started
 
     Clone the repository to your local machine:
-
-    bash
-
 git clone https://github.com/Sriram-g215/Stockwatch.git
 cd StockApp
 
