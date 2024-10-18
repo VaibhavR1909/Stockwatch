@@ -17,10 +17,13 @@ Before running the application, make sure you have the following installed:
     🔑 An API key from RapidAPI
 
 🚀 Getting Started
+Clone the repository to your local machine:
 
-    Clone the repository to your local machine:
-git clone https://github.com/Sriram-g215/Stockwatch.git
-cd StockApp
+```
+  git clone https://github.com/Sriram-g215/Stockwatch.git
+  cd Stockwatch
+```
+    
 
 Replace your_api_key_here in the code with your actual API key obtained from the API provider.
 
@@ -75,3 +78,5 @@ A big thanks to the following people for their contributions:
 
     🔥 Flask for the web framework.
     📊 APIs for stock market data.
+
+
