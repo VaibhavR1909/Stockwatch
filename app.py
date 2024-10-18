@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__)
 
-api_key = "dbcd715033msh2fae6457bd703d0p1b4729jsnb21eedb23c11"
+api_key = "enter your api key"
 
 @app.route('/')
 def home():
