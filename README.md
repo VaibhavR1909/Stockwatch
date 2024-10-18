@@ -63,13 +63,13 @@ The StockApp is also available on Docker Hub. You can find the image here (repla
 💻 Contributors
 
 A big thanks to the following people for their contributions:
-
+```
   @Kadali Vardhan
   @Syeda Umme Kulsum
   @Tamanna Bothra
   @Mayuri Gund
   @Shaik Nageena
-
+```
 🙏 Acknowledgements
 
     🔥 Flask for the web framework.
