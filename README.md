@@ -28,20 +28,15 @@ Clone the repository to your local machine:
 Replace your_api_key_here in the code with your actual API key obtained from the API provider.
 
 Build the Docker image:
-
-bash
-
+```
 docker build -t stockwatch .
-
+```
 Alternatively, pull the pre-built Docker image from Docker Hub:
 
-bash
-
+```
 docker pull sriram215/stockwatch
-
+```
 Run the Docker container:
-
-bash
 
     docker run -p 5000:5000 sriram215/stockwatch
 
