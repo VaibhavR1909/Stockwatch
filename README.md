@@ -68,6 +68,7 @@ A big thanks to the following people for their contributions:
   @Syeda Umme Kulsum
   @Tamanna Bothra
   @Mayuri Gund
+  @Vaibhav Ravindra
   @Shaik Nageena
 ```
 🙏 Acknowledgements
